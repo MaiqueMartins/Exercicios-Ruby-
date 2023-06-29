@@ -1,11 +1,8 @@
 numbers = 1
 
-while numbers >= 1
+while numbers <=100
   puts numbers
   numbers = numbers + 1
-  if numbers == 101
-    break
-  end
 
 end
 
